@@ -1258,7 +1258,7 @@ dependencies = [
 [[package]]
 name = "clash_verge_service_ipc"
 version = "2.6.4"
-source = "git+https://github.com/clash-verge-rev/clash-verge-service-ipc.git?tag=v2.6.4#9b50250b3cd48febc2e438b405be74d64bf2156f"
+source = "git+https://github.com/clash-verge-rev/clash-verge-service-ipc.git?rev=e93e6756d5df5da0e312808a641b9514ca257de3#e93e6756d5df5da0e312808a641b9514ca257de3"
 dependencies = [
  "anyhow",
  "compact_str",
@@ -6986,8 +6986,8 @@ dependencies = [
 
 [[package]]
 name = "sysproxy"
-version = "0.6.1"
-source = "git+https://github.com/clash-verge-rev/sysproxy-rs?branch=main#c63788cf88e3deac1087d759c16543235d66b921"
+version = "0.7.0"
+source = "git+https://github.com/clash-verge-rev/sysproxy-rs.git?rev=e0b5f2ae4a73ff22331f7d049ec07352731016d0#e0b5f2ae4a73ff22331f7d049ec07352731016d0"
 dependencies = [
  "iptools",
  "log",
